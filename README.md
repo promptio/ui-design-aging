@@ -20,5 +20,4 @@ Accessible Rich Internet Applications (ARIA)
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 
 Angular JS and ARIA ngAria
-
 https://docs.angularjs.org/api/ngAria
