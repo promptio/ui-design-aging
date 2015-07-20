@@ -9,13 +9,12 @@ A list of resources for UI design for aging populations.
  
  
  
-Design
+<h2>Design</h2>
 https://medium.com/@tomasslavicek/designing-a-mobile-interface-for-older-people-1c9b70fd645c
 
 
 
-Technical
-
+<h2>Technical</h2>
 Accessible Rich Internet Applications (ARIA) 
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 
