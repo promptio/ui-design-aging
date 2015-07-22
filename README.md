@@ -6,7 +6,7 @@ A list of resources for UI design for aging populations.
  
  
  
- 
+ http://marcysutton.github.io/angular-a11y/#/5
  
  
 <h2>Design</h2>
@@ -17,6 +17,9 @@ http://www.smashingmagazine.com/2015/02/05/designing-digital-technology-for-the-
 <h2>Technical</h2>
 Accessible Rich Internet Applications (ARIA) 
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
+
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions#Simple_Live_Regions
+
 
 Angular JS and ARIA ngAria
 https://docs.angularjs.org/api/ngAria
